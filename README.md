@@ -1,16 +1,19 @@
-### Hi there 👋
+# Jennie-Flore ELVA
 
-<!--
-**Jennie-Flore/Jennie-Flore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Greetings! I'm Jennie-Flore ELVA, deeply passionate about web development. My fascination lies in all facets of web development, and I'm presently engaged in various intriguing projects. I embrace collaborations and welcome fresh opportunities with open arms, so don't hesitate to get in touch!
 
-Here are some ideas to get you started:
+## Skills
+- <i class="fab fa-html5"></i> HTML5
+- <i class="fab fa-css3-alt"></i> CSS3
+- <i class="fab fa-bootstrap"></i> Bootstrap
+- <i class="fab fa-js"></i> JavaScript
+- <i class="fab fa-php"></i> PHP
+- <i class="fas fa-database"></i> MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tool
+- <i class="fab fa-git"></i> Git
+  
+## Contact
+- Email : jenniefleva@email.com
+- LinkedIn : [Jennie-Flore ELVA](https://www.linkedin.com/in/jennie-flore-elva-07261320a/)
