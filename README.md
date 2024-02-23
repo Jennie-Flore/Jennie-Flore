@@ -1,12 +1,16 @@
-# 👋 Hi, I'm Jennie-Flore!
-## 😊 About Me
+## 👋 Hi, I am Jennie-Flore!  A Front-End Web Developer <br> <br>
+
+
+<h2 style="text-align: center"> Welcome to my github space! </h2> 
+
+### 😊 About Me
 Greetings! I'm Jennie-Flore ELVA, deeply passionate about web development. My fascination lies in all facets of web development, and I'm presently engaged in various intriguing projects. I embrace collaborations and welcome fresh opportunities with open arms, so don't hesitate to get in touch!
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Jennie-Flore&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 -->
 
-## 💻 My Skills
+### 💻 My Skills
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,4 +22,10 @@ Greetings! I'm Jennie-Flore ELVA, deeply passionate about web development. My fa
 ## Contact Me
 - Email : jenniefleva@email.com
 - LinkedIn: [Jennie-Flore ELVA](https://www.linkedin.com/in/jennie-flore-elva-07261320a/)
+
+##
+<div>  
+  <a href = "mailto:jenniefleva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/jennie-flore-elva-07261320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
   
